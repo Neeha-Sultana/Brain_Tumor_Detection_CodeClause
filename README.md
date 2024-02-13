@@ -141,15 +141,12 @@ brain tumor detection using python and sklearn
 <!-- wp:heading {"level":4} -->
 <h4>OUTPUT</h4>
 <!-- /wp:heading -->
-
 <!-- wp:gallery {"ids":[49,50],"linkTo":"none"} -->
 <figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://cwadtech.files.wordpress.com/2021/07/img-13.png?w=649" alt="" data-id="49" data-link="https://cwadtech.wordpress.com/img-13/" class="wp-image-49"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://cwadtech.files.wordpress.com/2021/07/img-14.png?w=639" alt="" data-id="50" data-full-url="https://cwadtech.files.wordpress.com/2021/07/img-14.png" data-link="https://cwadtech.wordpress.com/img-14/" class="wp-image-50"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
-
 <!-- wp:paragraph -->
 <p>So, this is all about creating a predictive model using sklearn on brain tumor dataset. Thanks for reading!</p>
 <!-- /wp:paragraph -->
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
